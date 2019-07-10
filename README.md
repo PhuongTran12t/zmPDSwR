@@ -1,3 +1,8 @@
+# Added this new line
+# Only for testing 
+# --- 
+
+
 # Example code and data for "Practical Data Science with R 1st Edition" by Nina Zumel and John Mount, Manning 2014.
 
 Please consider upgrading to the in-progress ["Practical Data Science with R 2nd Edition" by Nina Zumel and John Mount (Manning 2019)](https://www.manning.com/books/practical-data-science-with-r-second-edition) (code/data/examples [here](https://github.com/WinVector/PDSwR2)).
