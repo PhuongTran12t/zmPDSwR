@@ -2,6 +2,10 @@
 # Only for testing 
 # --- 
 
+# Second change made
+# Still testing
+# ---
+
 
 # Example code and data for "Practical Data Science with R 1st Edition" by Nina Zumel and John Mount, Manning 2014.
 
